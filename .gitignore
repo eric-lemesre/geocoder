@@ -19,6 +19,7 @@ geocoder.egg-info/
 *.egg
 *.pyo
 env/
+venv/
 .env
 .idea
 .vscode
